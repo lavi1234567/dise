@@ -13,15 +13,15 @@ DISE is a web application designed to facilitate content discovery and sharing a
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (Specify backend technologies if applicable, e.g., Node.js, Flask)
-- **Database**: (Specify database technology if applicable, e.g., MySQL, MongoDB)
+- **Backend**:  Node.js
+- **Database**:  MongoDB
 
 ## Installation
 
 To run DISE locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/yourusername/DISE.git
+
 
 
 2. Navigate into the project directory:
